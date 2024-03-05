@@ -1,0 +1,26 @@
+$default-font-color: #7a7a7a;
+$dark-font: #353536;
+$main-color: #5b60ac;
+$hover-color: #1a164a;
+$second-color: #272972;
+$block-bgr: #f9fafc;
+$btn-bgr: #e4e5e7;
+
+
+$fz-16-34:clamp(16px,2vw,34px);
+$fz-16-25:clamp(16px,2vw,25px);
+$fz-18-20:clamp(18px,1.5vw,20px);
+$fz-14-16:clamp(14px,1.4vw,16px);
+$fz-24-60: clamp(20px,4vw,60px);
+$fz-24-50: clamp(20px,4vw,50px);
+//Breakpoints
+$breakpoint-xxs: 375px;
+$breakpoint-xs: 480px;
+$breakpoint-sm: 568px;
+$breakpoint-ms: 640px;
+$breakpoint-md: 768px;
+$breakpoint-df: 992px;
+$breakpoint-lg: 1280px;
+$breakpoint-xl: 1420px;
+$breakpoint-xxl: 1660px;
+$breakpoint-hd: 1980px;
