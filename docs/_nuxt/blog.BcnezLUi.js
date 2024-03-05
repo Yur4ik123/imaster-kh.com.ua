@@ -1,0 +1,1 @@
+import{_ as o,c as t,b as _,a as c,o as n,q as s}from"./entry.DcwyEAVp.js";const a={},r={class:"blog__page"},l=c("h1",null," BLOG INDEX PAGE ",-1);function d(p,f){const e=s;return n(),t("div",r,[l,_(e)])}const m=o(a,[["render",d]]);export{m as default};

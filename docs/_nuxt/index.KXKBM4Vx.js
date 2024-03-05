@@ -1,0 +1,1 @@
+import{_ as n,c as t,b as o,F as c,a,o as _,q as s}from"./entry.DcwyEAVp.js";const r={},l=a("h1",null,"BLOG SHOW",-1);function d(m,p){const e=s;return _(),t(c,null,[l,o(e)],64)}const f=n(r,[["render",d]]);export{f as default};

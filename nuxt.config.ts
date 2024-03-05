@@ -1,5 +1,11 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+
 export default defineNuxtConfig({
+  nitro: {
+    output: {
+      publicDir:'docs'
+    }
+  },
   css: ["~/assets/styles/main.scss"],
   modules: [
     "@fedorae/nuxt-uikit",
